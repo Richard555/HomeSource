@@ -1,0 +1,3 @@
+[submodule "CPPS4"]
+	path = CPPS4
+	url = https://github.com/Richard555/CppSample4.git
